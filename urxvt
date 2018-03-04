@@ -1,1 +1,0 @@
-urxvt +sb -bg black -fn 'xft:Terminus, pixelsize=14' -fg white -g 83x70 -cd /home/dixel
